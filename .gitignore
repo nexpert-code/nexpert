@@ -1,18 +1,6 @@
-# 민감 정보
-서버 정보.md
-**/서버 정보.md
+# 모든 것을 무시 (화이트리스트 방식)
+*
 
-# Obsidian 시스템 폴더
-.obsidian/
+# .gitignore 자체는 허용
+!.gitignore
 
-# macOS
-.DS_Store
-
-# 개인/업무 폴더 (공개 원치 않으면 추가)
-Finance/
-Work/
-Life/
-운동코칭/
-Webex/
-봇/
-Travel/
