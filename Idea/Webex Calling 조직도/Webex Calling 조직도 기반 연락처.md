@@ -20,8 +20,6 @@
 🔗 [GitHub - nexpert-code/wxc-d-svc](https://github.com/nexpert-code/wxc-d-svc)
 
 
-
-
 # Webex Directory Service (wxc-d-svc)
 
 Webex Bot을 인증 수단으로 활용하는 **기업 임직원 디렉터리 서비스**입니다.  
