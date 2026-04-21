@@ -12,7 +12,7 @@ title: NExpert
 
 ---
 
-기존 블로그 콘텐츠는 계속해서 유지 할 것이니, 언제든
+기존 블로그 콘텐츠는 계속해서 유지 할 것이니, 추억의 자료들을 언제든지 만나시기 바랍니다.
 → [Tistory Legacy Blog](https://nexpert.tistory.com/)
 
 ---
