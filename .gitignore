@@ -4,3 +4,7 @@
 # .gitignore 자체는 허용
 !.gitignore
 
+# 마크다운 파일 허용
+!*.md
+!**/*.md
+
