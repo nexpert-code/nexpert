@@ -1,3 +1,9 @@
+---
+title: "Webex Calling & Message: 한국형 조직도 기반 연락처 서비스 (wxc-d-svc)"
+tags: [Idea, Webex, Organization, Development, FastAPI, React]
+date: 2026-04-21
+---
+
 # Webex Calling & Message: 한국형 조직도 기반 연락처 서비스 (wxc-d-svc)
 
 **1. 배경 및 문제점**
@@ -307,3 +313,7 @@ SECRET_KEY=..." \
 ## 라이선스
 
 MIT License
+
+---
+#Idea #Webex #Organization #Development #FastAPI #React
+[[index|🏠 메인으로 돌아가기]]
