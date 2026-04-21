@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "Idea/Webex Calling 조직도/Webex Calling 조직도 기반 연락처.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "환영합니다!"
+              "title": "Webex Calling 조직도 기반 연락처"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "Idea/Webex Calling 조직도/Webex Calling 조직도 기반 연락처.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "환영합니다! 의 백링크"
+              "title": "Webex Calling 조직도 기반 연락처 의 백링크"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "Idea/Webex Calling 조직도/Webex Calling 조직도 기반 연락처.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "환영합니다! 의 나가는 링크"
+              "title": "Webex Calling 조직도 기반 연락처 의 나가는 링크"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "Idea/Webex Calling 조직도/Webex Calling 조직도 기반 연락처.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "환영합니다! 의 개요"
+              "title": "Webex Calling 조직도 기반 연락처 의 개요"
             }
           },
           {
@@ -212,8 +212,8 @@
   },
   "active": "b75c7848562867c6",
   "lastOpenFiles": [
-    "Idea/Webex Calling 조직도/Webex Calling 조직도 기반 연락처.md",
     "환영합니다!.md",
+    "Idea/Webex Calling 조직도/Webex Calling 조직도 기반 연락처.md",
     "Idea/Webex Calling 조직도/README.md",
     "Idea/Webex Calling 조직도",
     "Idea/무제 폴더",
