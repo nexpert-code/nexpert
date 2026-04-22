@@ -1,9 +1,9 @@
 ---
-title: NExpert
-tags: [Home, MOC]
+title: 반갑습니다!
+tags:
+  - Home
+  - MOC
 ---
-
-# 반갑습니다!
 
 블로그 활동을 하지 않는 상황에서도 많은 업계의 분들이 NExpert에 관련된 추억과 바라는 점을 많이 이야기 해 주셨습니다.
 
