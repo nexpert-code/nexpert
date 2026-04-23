@@ -18,7 +18,7 @@ tags: [MOC, Map]
 
 ## 📁 OpenClaw
 
-- [[OpenClaw 2개월 사용 후기]]
+- [[OpenClaw 사용 후기]]
 - [[OpenClaw 활용 예 (업데이트중)]]
 
 ## 📁 Trekking & Hiking
@@ -31,4 +31,4 @@ tags: [MOC, Map]
 - [[설악대종주 준비]]
 
 ---
-*마지막 업데이트: 2026-04-22 22:13*
+*마지막 업데이트: 2026-04-23 09:26*

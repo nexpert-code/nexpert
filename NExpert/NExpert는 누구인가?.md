@@ -4,8 +4,6 @@ tags: [NExpert, Community, History]
 date: 2026-04-21
 ---
 
-# NExpert는 누구인가?
-
 NExpert는...
 
 2007년 술자리에서 Cisco와 Voice technology 정보는 인터넷에 없다며, 블로그 활용하는 방법을 알려준 (MS엔지니어) 선배의 조언을 따라 [www.nexpert.net](https://www.nexpert.net) 블로그를 만들어 포스팅한 것부터 시작되었습니다.
