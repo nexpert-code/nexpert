@@ -21,6 +21,10 @@ tags: [MOC, Map]
 - [[OpenClaw 사용 후기]]
 - [[OpenClaw 활용 예 (업데이트중)]]
 
+## 📁 SIP
+
+- [[RFC3261_SIP_ko_p1-20]]
+
 ## 📁 Trekking & Hiking
 
 - [[Trekking & Hiking MOC]]
@@ -31,4 +35,4 @@ tags: [MOC, Map]
 - [[설악대종주 준비]]
 
 ---
-*마지막 업데이트: 2026-04-23 11:04*
+*마지막 업데이트: 2026-05-08 08:08*
